@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![Readme](https://github.com/khaykay/khaykay/assets/46075314/fcac7537-dcee-4726-97ad-fc5521c17e5a)
 
 <!--
 **khaykay/khaykay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
